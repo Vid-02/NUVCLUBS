@@ -1,2 +1,0 @@
-# NUVCLUBS
-Club Management system 
